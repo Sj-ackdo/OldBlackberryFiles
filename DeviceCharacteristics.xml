@@ -1,0 +1,1722 @@
+<DeviceCharacteristics version="T3C+Ci0350xXbHyZX7g/VQ==" ImageURL="https://www.blackberry.com/Desktop/Download/Images/600">
+<DeviceFamilies>
+<DeviceFamily FamilyID="unknown1">
+<Name>Unknown Device</Name>
+<Image>
+<Path>BlackBerryTM.png</Path>
+<Checksum>B3707737D01D16913CDC713D32CE7F1D6EC72782</Checksum>
+</Image>
+</DeviceFamily>
+<DeviceFamily FamilyID="unknown0 GSM">
+<Name>Unknown Device</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="0"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.3g2,.3gp2,.mov,.avi,.asf,.wmv,.mp4,.m4A,.mpeg4,.m4v,.f4v" MaxFps="30" Low="4000000" High="8000000">
+<SupportedFourCcCodes FourCcCodes="AVC1,DAVC,DIVX,XVID,FMP4,MP4V,MP4S,H264,WMV3,WVC1,YV12,YUY2,DX50"/>
+</SupportedVideoSettings>
+<SupportedAudioSettings>
+<NumberOfAudioChannels Channels="6"/>
+</SupportedAudioSettings>
+</Hardware>
+<Image>
+<Path>BlackBerryTM.png</Path>
+<Checksum>B3707737D01D16913CDC713D32CE7F1D6EC72782</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="unknown1 GSM">
+<Name>Unknown Device</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>BlackBerryTM.png</Path>
+<Checksum>B3707737D01D16913CDC713D32CE7F1D6EC72782</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="unknown2 GSM">
+<Name>Unknown Device</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>BlackBerryTM.png</Path>
+<Checksum>B3707737D01D16913CDC713D32CE7F1D6EC72782</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="unknown3 GSM">
+<Name>Unknown Device</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<DriveSettings>
+<InternalDrive MinimumReservedSpace="0" InternalCapacity="8589934592"/>
+</DriveSettings>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>BlackBerryTM.png</Path>
+<Checksum>B3707737D01D16913CDC713D32CE7F1D6EC72782</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="unknown1 CDMA">
+<Name>Unknown Device</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.3g2,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>BlackBerryTM.png</Path>
+<Checksum>B3707737D01D16913CDC713D32CE7F1D6EC72782</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="unknown2 CDMA">
+<Name>Unknown Device</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.3g2,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>BlackBerryTM.png</Path>
+<Checksum>B3707737D01D16913CDC713D32CE7F1D6EC72782</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="unknown3 CDMA">
+<Name>Unknown Device</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<DriveSettings>
+<InternalDrive MinimumReservedSpace="0" InternalCapacity="1073741824"/>
+</DriveSettings>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.3g2,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="14000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>BlackBerryTM.png</Path>
+<Checksum>B3707737D01D16913CDC713D32CE7F1D6EC72782</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="Z10">
+<Name>BlackBerry Z10</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>z10.png</Path>
+<Checksum>1C6059CE44F2B2959EF3FD72FEB09B8A9D683BC4</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="Z30">
+<Name>BlackBerry Z30</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>z30.png</Path>
+<Checksum>CD07268A94843DECBEDF2503AAF1D0ADFCC520B4</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="Z3">
+<Name>BlackBerry Z3</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>z3.png</Path>
+<Checksum>26CCA65FD07A0B8F4534B9A7E260E2413BF95FB6</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="Q10">
+<Name>BlackBerry Q10</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>q10.png</Path>
+<Checksum>1675506B378E17FC13EADA766AB6960E662FB842</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="Q5">
+<Name>BlackBerry Q5</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>q5.png</Path>
+<Checksum>A5C0BDF3EF0C8FA0789C80169F9F4C7168225E4D</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="Passport">
+<Name>BlackBerry Passport</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>passport.png</Path>
+<Checksum>F13A31207C72D045AEFFB1B417F371D9562B0EB7</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="Classic">
+<Name>BlackBerry Classic</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>classic.png</Path>
+<Checksum>13A895F799D4DED9ED9A969635B4092955AFB8E5</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="Leap">
+<Name>BlackBerry Leap</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>leap.png</Path>
+<Checksum>BBE9376481EEF95B02C10A81F88CEE634E1A2EC7</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="RIM Tablet">
+<Name>BlackBerry PlayBook</Name>
+<Hardware FormFactor="Tablet">
+<MassStorageVolumes Count="0"/>
+<DriveSettings>
+<InternalDrive MinimumReservedSpace="104857600"/>
+</DriveSettings>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.3g2,.3gp2,.mov,.avi,.asf,.wmv,.mp4,.m4A,.mpeg4,.m4v,.f4v" MaxFps="30" Low="4000000" High="8000000">
+<TranscodeTargetDimensions Width="1920" Height="1080"/>
+<MaxSupportedDimensions Width="1920" Height="1200"/>
+<SupportedFourCcCodes FourCcCodes="AVC1,DAVC,DIVX,XVID,FMP4,MP4V,MP4S,H264,WMV3,WVC1,YV12,YUY2,DX50"/>
+<DefaultTranscodeSettings IsTranscodeEnabled="false"/>
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+<SupportedAudioSettings>
+<NumberOfAudioChannels Channels="6"/>
+</SupportedAudioSettings>
+<SupportedPictureSettings>
+<Optimization IsSupported="false"/>
+</SupportedPictureSettings>
+</Hardware>
+<Image>
+<Path>playbook.png</Path>
+<Checksum>40A0279351E9BBAE016209B27ECE275F4A1BF328</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="7100">
+<Name>BlackBerry 7100</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb710x.png</Path>
+<Checksum>304F45A640B98DBDD95A553DCC338D7FEB7CB5C2</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="7100i">
+<Name>BlackBerry 7100i</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb7100i.png</Path>
+<Checksum>6C3C2ACDEA889A1F53F209683686F746242FAC57</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="7130">
+<Name>BlackBerry 7130</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb7130.png</Path>
+<Checksum>F31E7804387EC786AAACDCDA2EBB2DF4247A5B9D</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="7130e">
+<Name>BlackBerry 7130e</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb7130e.png</Path>
+<Checksum>C85D50615C40CC1B4ED2ABE48AB1119ED36D8CC0</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="7250">
+<Name>BlackBerry 7250</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb7250.png</Path>
+<Checksum>01DA48D9F80D1E1A6F5C8708EC794AB3C799C214</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="7290">
+<Name>BlackBerry 7290</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb7290.png</Path>
+<Checksum>BAAFADA0AD1F58BD0B7B303C8791B9AFF07262B1</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="7520">
+<Name>BlackBerry 7520</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb7520.png</Path>
+<Checksum>727AD4E53707A14DE2D7FB2D945203E93704B351</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8100">
+<Name>BlackBerry Pearl</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="200000" High="768000"/>
+</Hardware>
+<Image>
+<Path>bb8100.png</Path>
+<Checksum>FF42F179D9D9AA52D636BA82F1C4143314F7C534</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8130">
+<Name>BlackBerry Pearl</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.asf,.wmv" MaxFps="24" Low="200000" High="384000"/>
+</Hardware>
+<Image>
+<Path>bb8100.png</Path>
+<Checksum>FF42F179D9D9AA52D636BA82F1C4143314F7C534</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8220">
+<Name>BlackBerry Pearl</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="200000" High="768000"/>
+</Hardware>
+<Image>
+<Path>bb8220.png</Path>
+<Checksum>4C7ACF00FD2A1C513102183CD37EC9A02D3B263E</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8230">
+<Name>BlackBerry Pearl</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.asf,.wmv" MaxFps="24" Low="200000" High="384000"/>
+</Hardware>
+<Image>
+<Path>bb8220.png</Path>
+<Checksum>4C7ACF00FD2A1C513102183CD37EC9A02D3B263E</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8300">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="200000" High="768000"/>
+</Hardware>
+<Image>
+<Path>bb8300.png</Path>
+<Checksum>A8156C84F20FD9E930FDA8174F58BE604D5C62C3</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8320">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="200000" High="768000"/>
+</Hardware>
+<Image>
+<Path>bb8300.png</Path>
+<Checksum>A8156C84F20FD9E930FDA8174F58BE604D5C62C3</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8330">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.asf,.wmv" MaxFps="24" Low="200000" High="384000"/>
+</Hardware>
+<Image>
+<Path>bb8300.png</Path>
+<Checksum>A8156C84F20FD9E930FDA8174F58BE604D5C62C3</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8350">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="200000" High="768000"/>
+</Hardware>
+<Image>
+<Path>bb8350.png</Path>
+<Checksum>F1811B47CFFAADF687632280EEA237A49A72F698</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8520">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="384000" High="1500000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb8520.png</Path>
+<Checksum>BB93F745F8C2EDDA38963D299FD37C3CD5862826</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8530">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1" Mtp="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.avi,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb8520.png</Path>
+<Checksum>BB93F745F8C2EDDA38963D299FD37C3CD5862826</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8700">
+<Name>BlackBerry 8700</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb8700.png</Path>
+<Checksum>63F1BD939FA3B5EE6E7FB54D93A4CE5A6D80EC21</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8703e">
+<Name>BlackBerry 8700</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb8703.png</Path>
+<Checksum>7C66DE998E588C4B994D445AAC5009566D34025F</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8707">
+<Name>BlackBerry 8707</Name>
+<Hardware>
+<MassStorageVolumes Count="0"/>
+</Hardware>
+<Image>
+<Path>bb8707.png</Path>
+<Checksum>C1A0A6BC38189C81B95E7833852DD9E3878798B6</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8800">
+<Name>BlackBerry 8800</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="200000" High="768000"/>
+</Hardware>
+<Image>
+<Path>bb8800.png</Path>
+<Checksum>710720F5AC0D55CE77DF1C78FAA3BA5AC761EC9E</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8820">
+<Name>BlackBerry 8820</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="200000" High="768000"/>
+</Hardware>
+<Image>
+<Path>bb8800.png</Path>
+<Checksum>710720F5AC0D55CE77DF1C78FAA3BA5AC761EC9E</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8830">
+<Name>BlackBerry 8830</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.asf,.wmv" MaxFps="24" Low="200000" High="384000"/>
+</Hardware>
+<Image>
+<Path>bb8800.png</Path>
+<Checksum>710720F5AC0D55CE77DF1C78FAA3BA5AC761EC9E</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8900">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="384000" High="1500000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb8900.png</Path>
+<Checksum>E8951E7BCA6368382F94950DCB52B502EB741B7A</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="8980">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb8980.png</Path>
+<Checksum>CB9BAB57A96F8A9CBF905C963A18743BEC80281A</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9000">
+<Name>BlackBerry Bold</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="384000" High="1500000"/>
+</Hardware>
+<Image>
+<Path>bb9000.png</Path>
+<Checksum>3134EB4E484D21F436ADCF6056C74D8CA0C32AAD</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9100">
+<Name>BlackBerry Pearl</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="30" Low="200000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9100.png</Path>
+<Checksum>D321F074CFD1E73F75459689FA55EFC6F6A30495</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9220">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mp4,.m4a,.3gp,.3gpp,.3g2,.m4v,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9220.png</Path>
+<Checksum>BA5E5FA1C7ED9D3D32065FD18265989B2D5DFA42</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9300">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1" Mtp="true"/>
+<SupportedVideoSettings Extensions=".mov,.3gp,.3gpp,.avi,.asf,.wmv" MaxFps="24" Low="384000" High="1500000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9300.png</Path>
+<Checksum>362935B36F03D7A60C572DB20438276D70714C95</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9310">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mp4,.m4a,.3gp,.3gpp,.3g2,.m4v,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9310.png</Path>
+<Checksum>B674E1A96F9C1891AD6EB1CC634061A68477D680</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9320">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mp4,.m4a,.3gp,.3gpp,.3g2,.m4v,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9320.png</Path>
+<Checksum>B674E1A96F9C1891AD6EB1CC634061A68477D680</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9350">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1" Mtp="true"/>
+<SupportedVideoSettings Extensions=".mp4,.m4a,.3gp,.3gpp,.3g2,.m4v,.avi,.asf,.wmv" MaxFps="30" Low="4000000" High="14000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb93x0.png</Path>
+<Checksum>9BB53BFEAE4FBB72ACCC3B91342AA60B682F8989</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9370">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<DriveSettings>
+<InternalDrive MinimumReservedSpace="0" InternalCapacity="1073741824"/>
+</DriveSettings>
+<SupportedVideoSettings Extensions=".mp4,.m4a,.3gp,.3gpp,.3g2,.m4v,.avi,.asf,.wmv" MaxFps="30" Low="4000000" High="14000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb93x0.png</Path>
+<Checksum>9BB53BFEAE4FBB72ACCC3B91342AA60B682F8989</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9380">
+<Name>BlackBerry Curve</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mp4,.m4a,.3gp,.3gpp,.3g2,.m4v,.avi,.asf,.wmv" MaxFps="30" Low="4000000" High="10000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9380.png</Path>
+<Checksum>BB7B335D977D0B97EC9B836574D59B51EBBAA95C</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9500">
+<Name>BlackBerry Storm</Name>
+<Hardware>
+<MassStorageVolumes Count="2" Mtp="true"/>
+<Screen Rotatable="true" RotatedVideoDisplay="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.avi,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9500.png</Path>
+<Checksum>628F1924604FB5877126BBB20712D33EFF60A823</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9520">
+<Name>BlackBerry Storm</Name>
+<Hardware>
+<MassStorageVolumes Count="2" Mtp="true"/>
+<Screen Rotatable="true" RotatedVideoDisplay="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9520.png</Path>
+<Checksum>326C9CC7B5BF39C0D9B4475FA8F98E4929BE0A8B</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9530">
+<Name>BlackBerry Storm</Name>
+<Hardware>
+<MassStorageVolumes Count="2" Mtp="true"/>
+<Screen Rotatable="true" RotatedVideoDisplay="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.avi,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9520.png</Path>
+<Checksum>326C9CC7B5BF39C0D9B4475FA8F98E4929BE0A8B</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9550">
+<Name>BlackBerry Storm</Name>
+<Hardware>
+<MassStorageVolumes Count="2" Mtp="true"/>
+<Screen Rotatable="true" RotatedVideoDisplay="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.avi,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9520.png</Path>
+<Checksum>326C9CC7B5BF39C0D9B4475FA8F98E4929BE0A8B</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9620">
+<Name>BlackBerry 9620</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<DriveSettings>
+<InternalDrive MinimumReservedSpace="0" InternalCapacity="1073741824"/>
+</DriveSettings>
+<SupportedVideoSettings Extensions=".mp4,.m4a,.3gp,.3gpp,.m4v,.avi,.asf,.wmv,.mov,.m4v" MaxFps="30" Low="4000000" High="14000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9610.png</Path>
+<Checksum>EE1EE46296209A46AC241F6CF6E101B52400F6CB</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9630">
+<Name>BlackBerry Tour</Name>
+<Hardware>
+<MassStorageVolumes Count="1" Mtp="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.avi,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9630.png</Path>
+<Checksum>251A96C8B9CF85F6C21FDE3ED1EA96F27F616BD1</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9650">
+<Name>BlackBerry Bold</Name>
+<Hardware>
+<MassStorageVolumes Count="1" Mtp="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.avi,.wmv" MaxFps="30" Low="384000" High="2000000">
+<TranscodeTargetDimensions Width="352" Height="240"/>
+<MaxSupportedDimensions Width="352" Height="240"/>
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9650.png</Path>
+<Checksum>E60CB583A0731BA7EB8CEFB24CC6EE434CE7CEE5</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9670">
+<Name>BlackBerry Style</Name>
+<Hardware>
+</Hardware>
+<Image>
+<Path>bb9670.png</Path>
+<Checksum>9270636A69EBA3465201FD2F168639D8685A2ED9</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9700">
+<Name>BlackBerry Bold</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000"/>
+</Hardware>
+<Image>
+<Path>bb9700.png</Path>
+<Checksum>35D2CAFFFFFC1142372A79742230F61C7B18534A</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9720">
+<Name>BlackBerry</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".mp4,.m4a,.3gp,.3gpp,.3g2,.m4v,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9720.png</Path>
+<Checksum>89CC071196624B6A50B0E1322591D0568D38F113</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9780">
+<Name>BlackBerry Bold</Name>
+<Hardware>
+<MassStorageVolumes Count="1"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000"/>
+</Hardware>
+<Image>
+<Path>bb9780.png</Path>
+<Checksum>F6E2737B340FF84044B4991305D9CF13EA468CCF</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9790">
+<Name>BlackBerry Bold</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<DriveSettings>
+<InternalDrive MinimumReservedSpace="0" InternalCapacity="8589934592"/>
+</DriveSettings>
+<SupportedVideoSettings Extensions=".mp4,.m4a,.3gp,.3gpp,.m4v,.avi,.asf,.wmv" MaxFps="30" Low="4000000" High="14000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9790.png</Path>
+<Checksum>E59C6EBC20EBE3077E85DC69662EFD8A0B911BB9</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9800">
+<Name>BlackBerry Torch</Name>
+<Hardware>
+<MassStorageVolumes Count="2" Mtp="true"/>
+<Screen Rotatable="true" RotatedVideoDisplay="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9800.png</Path>
+<Checksum>A9B63423CF35BF8F58DD755B4055BCB9EAE7CF16</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9810">
+<Name>BlackBerry Torch</Name>
+<Hardware>
+<MassStorageVolumes Count="2" Mtp="true"/>
+<Screen Rotatable="true" RotatedVideoDisplay="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9810.png</Path>
+<Checksum>DA394BD83A33A2E197E8417544EBEC0CD07A3E3A</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9850">
+<Name>BlackBerry Torch</Name>
+<Hardware>
+<MassStorageVolumes Count="2" Mtp="true"/>
+<Screen Rotatable="true" RotatedVideoDisplay="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.3g2,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9850.png</Path>
+<Checksum>6E086D51B088A0231BC062004B6CF66AD5460D10</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9860">
+<Name>BlackBerry Torch</Name>
+<Hardware>
+<MassStorageVolumes Count="2" Mtp="true"/>
+<Screen Rotatable="true" RotatedVideoDisplay="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9860.png</Path>
+<Checksum>6E086D51B088A0231BC062004B6CF66AD5460D10</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9900">
+<Name>BlackBerry Bold</Name>
+<Hardware>
+<MassStorageVolumes Count="2" Mtp="true"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9900.png</Path>
+<Checksum>F9D4BC3208A4CBB9E591377EE5A4FB9FCBD4DE7B</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="9930">
+<Name>BlackBerry Bold</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.3g2,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bb9900.png</Path>
+<Checksum>F9D4BC3208A4CBB9E591377EE5A4FB9FCBD4DE7B</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="P9981">
+<Name>PORSCHE DESIGN P'9981 from BlackBerry</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+<SupportedVideoSettings Extensions=".3gp,.3gpp,.mov,.avi,.asf,.wmv,.mp4,.m4v" MaxFps="30" Low="384000" High="2000000">
+<PreferredEncoder Name="H264"/>
+</SupportedVideoSettings>
+</Hardware>
+<Image>
+<Path>bbP9981.png</Path>
+<Checksum>D711AC3F1727100DECEEFDD65B9D24D74B3D095C</Checksum>
+</Image>
+<OSType>BBOS</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="P9982">
+<Name>PORSCHE DESIGN P9982 BlackBerry</Name>
+<Hardware>
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>bbP9982.png</Path>
+<Checksum>8D99C12DCB01A410D3296E94B15F5658D217D729</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="P9983">
+<Name>PORSCHE DESIGN P'9983 BlackBerry</Name>
+<Hardware FormFactor="SmartPhone">
+<MassStorageVolumes Count="2"/>
+</Hardware>
+<Image>
+<Path>p9983.png</Path>
+<Checksum>3BC6B26F585FD2BFA1E47A5ACE7435C7B9300817</Checksum>
+</Image>
+<OSType>QNX</OSType>
+</DeviceFamily>
+<DeviceFamily FamilyID="RIM Media">
+<Name>BlackBerry Device</Name>
+<FeatureSupport>
+<Login>false</Login>
+<ImageReload>true</ImageReload>
+</FeatureSupport>
+<Image>
+<Path>BlackBerryTM.png</Path>
+<Checksum>B3707737D01D16913CDC713D32CE7F1D6EC72782</Checksum>
+</Image>
+</DeviceFamily>
+</DeviceFamilies>
+<Devices>
+<Device HardwareID="00000000" Family="unknown1" Supported="false">
+<Model>Unknown</Model>
+<MarketName>BlackBerry</MarketName>
+</Device>
+<Device HardwareID="01020100" Family="850" Supported="false">
+<Model>850</Model>
+<MarketName>BlackBerry</MarketName>
+</Device>
+<Device HardwareID="01020400" Family="857" Supported="false">
+<Model>857</Model>
+<MarketName>BlackBerry</MarketName>
+</Device>
+<Device HardwareID="01010100" Family="950" Supported="false">
+<Model>950</Model>
+<MarketName>BlackBerry</MarketName>
+</Device>
+<Device HardwareID="01010400" Family="957" Supported="false">
+<Model>957</Model>
+</Device>
+<Device HardwareID="00000101" Family="5710" Supported="false">
+<Model>5710</Model>
+</Device>
+<Device HardwareID="80000103" Family="5800" Supported="false">
+<Model>5800</Model>
+</Device>
+<Device HardwareID="80000503" Family="6200" Supported="false">
+<Model>6200</Model>
+</Device>
+<Device HardwareID="90000503" Family="6230" Supported="false">
+<Model>6230</Model>
+</Device>
+<Device HardwareID="84000503" Family="6300" Supported="false">
+<Model>6300</Model>
+</Device>
+<Device HardwareID="00000505" Family="6500" Supported="false">
+<Model>6500</Model>
+</Device>
+<Device HardwareID="80000403" Family="6700" Supported="false">
+<Model>6700</Model>
+</Device>
+<Device HardwareID="00000104" Family="6750" Supported="false">
+<Model>6750</Model>
+</Device>
+<Device HardwareID="00000404" Family="6750" Supported="false">
+<Model>6750</Model>
+</Device>
+<Device HardwareID="94000903" Family="7100" Supported="false">
+<Model>7100</Model>
+<MarketName>BlackBerry 7100</MarketName>
+</Device>
+<Device HardwareID="04000905" Family="7100i" Supported="false">
+<Model>7100i</Model>
+<MarketName>BlackBerry 7100i</MarketName>
+</Device>
+<Device HardwareID="04000904" Family="7130e">
+<Model>7130e</Model>
+<MarketName>BlackBerry 7130e</MarketName>
+</Device>
+<Device HardwareID="84000903" Family="7130">
+<Model>7130</Model>
+<MarketName>BlackBerry 7130 g/c</MarketName>
+</Device>
+<Device HardwareID="94000503" Family="7200" Supported="false">
+<Model>7200</Model>
+<MarketName>BlackBerry 7200</MarketName>
+</Device>
+<Device HardwareID="1C000504" Family="7250" Supported="false">
+<Model>7250</Model>
+<MarketName>BlackBerry 7250</MarketName>
+</Device>
+<Device HardwareID="1C000506" Family="7250" Supported="false">
+<Model>7270</Model>
+<MarketName>BlackBerry 7270</MarketName>
+</Device>
+<Device HardwareID="9C000503" Family="7290" Supported="false">
+<Model>7290</Model>
+<MarketName>BlackBerry 7290</MarketName>
+</Device>
+<Device HardwareID="04000505" Family="7510" Supported="false">
+<Model>7510</Model>
+<MarketName>BlackBerry 7510</MarketName>
+</Device>
+<Device HardwareID="1C000505" Family="7520" Supported="false">
+<Model>7520</Model>
+<MarketName>BlackBerry 7520</MarketName>
+</Device>
+<Device HardwareID="94000403" Family="7700" Supported="false">
+<Model>7700</Model>
+<MarketName>BlackBerry 7700</MarketName>
+</Device>
+<Device HardwareID="04000404" Family="7750" Supported="false">
+<Model>7750</Model>
+<MarketName>BlackBerry 7750</MarketName>
+</Device>
+<Device HardwareID="84000A03" Family="SK65" Supported="false">
+<Model>SK65</Model>
+<MarketName>BlackBerry SK65</MarketName>
+</Device>
+<Device HardwareID="84000D03" Family="8100">
+<Model>8100</Model>
+<MarketName>BlackBerry Pearl 8100</MarketName>
+</Device>
+<Device HardwareID="8F000D03" Family="8100">
+<Model>8110</Model>
+<MarketName>BlackBerry Pearl 8110</MarketName>
+</Device>
+<Device HardwareID="8D000D03" Family="8100">
+<Model>8120</Model>
+<MarketName>BlackBerry Pearl 8120</MarketName>
+</Device>
+<Device HardwareID="04000D04" Family="8130">
+<Model>8130</Model>
+<MarketName>BlackBerry Pearl 8130</MarketName>
+</Device>
+<Device HardwareID="06000D04" Family="8130">
+<Model>8130</Model>
+<MarketName>BlackBerry Pearl 8130m</MarketName>
+</Device>
+<Device HardwareID="8D001103" Family="8220">
+<Model>8220</Model>
+<MarketName>BlackBerry Pearl 8220</MarketName>
+</Device>
+<Device HardwareID="04001104" Family="8230">
+<Model>8230</Model>
+<MarketName>BlackBerry Pearl 8230</MarketName>
+</Device>
+<Device HardwareID="06001104" Family="8230">
+<Model>8230</Model>
+<MarketName>BlackBerry Pearl 8230m</MarketName>
+</Device>
+<Device HardwareID="96000F03" Family="8300">
+<Model>8300</Model>
+<MarketName>BlackBerry Curve 8300</MarketName>
+</Device>
+<Device HardwareID="8D000F03" Family="8300">
+<Model>8310</Model>
+<MarketName>BlackBerry Curve 8310</MarketName>
+</Device>
+<Device HardwareID="04000F04" Family="8330">
+<Model>8330</Model>
+<MarketName>BlackBerry Curve 8330</MarketName>
+</Device>
+<Device HardwareID="84000F03" Family="8320">
+<Model>8320</Model>
+<MarketName>BlackBerry Curve 8320</MarketName>
+</Device>
+<Device HardwareID="06000F04" Family="8330">
+<Model>8330</Model>
+<MarketName>BlackBerry Curve 8330m</MarketName>
+</Device>
+<Device HardwareID="84000F05" Family="8350">
+<Model>8350</Model>
+<MarketName>BlackBerry Curve 8350i</MarketName>
+</Device>
+<Device HardwareID="8C000F03" Family="8520">
+<Model>8520</Model>
+<MarketName>BlackBerry Curve 8520</MarketName>
+</Device>
+<Device HardwareID="05000F04" Family="8530">
+<Model>8530</Model>
+<MarketName>BlackBerry Curve 8530</MarketName>
+</Device>
+<Device HardwareID="84000B03" Family="8700">
+<Model>8700</Model>
+<MarketName>BlackBerry 8700</MarketName>
+</Device>
+<Device HardwareID="04000B04" Family="8703e">
+<Model>8703e</Model>
+<MarketName>BlackBerry 8703e</MarketName>
+</Device>
+<Device HardwareID="84000B07" Family="8707">
+<Model>8707</Model>
+<MarketName>BlackBerry 8707</MarketName>
+</Device>
+<Device HardwareID="84000E03" Family="8800">
+<Model>8800</Model>
+<MarketName>BlackBerry 8800</MarketName>
+</Device>
+<Device HardwareID="8D000E03" Family="8820">
+<Model>8820</Model>
+<MarketName>BlackBerry 8820</MarketName>
+</Device>
+<Device HardwareID="04000E04" Family="8830">
+<Model>8830</Model>
+<MarketName>BlackBerry 8830</MarketName>
+</Device>
+<Device HardwareID="06000E04" Family="8830">
+<Model>8830</Model>
+<MarketName>BlackBerry 8830</MarketName>
+</Device>
+<Device HardwareID="86001503" Family="8900">
+<Model>8910</Model>
+<MarketName>BlackBerry Curve 8910</MarketName>
+</Device>
+<Device HardwareID="84001503" Family="8900">
+<Model>8900</Model>
+<MarketName>BlackBerry Curve 8900</MarketName>
+</Device>
+<Device HardwareID="85001503" Family="8980">
+<Model>8980</Model>
+<MarketName>BlackBerry Curve 8980</MarketName>
+</Device>
+<Device HardwareID="84000E07" Family="9000">
+<Model>9000</Model>
+<MarketName>BlackBerry Bold 9000</MarketName>
+</Device>
+<Device HardwareID="05000D07" Family="9100">
+<Model>9100/9105</Model>
+<MarketName>BlackBerry Pearl 9100/9105</MarketName>
+</Device>
+<Device HardwareID="0E000F03" Family="9220">
+<Model>9220</Model>
+<MarketName>BlackBerry Curve 9220</MarketName>
+</Device>
+<Device HardwareID="05000F07" Family="9320">
+<Model>9315/9320</Model>
+<MarketName>BlackBerry Curve 9315/9320</MarketName>
+</Device>
+<Device HardwareID="0F000F04" Family="9310">
+<Model>9310</Model>
+<MarketName>BlackBerry 9310</MarketName>
+</Device>
+<Device HardwareID="14000F04" Family="9310">
+<Model>9310</Model>
+<MarketName>BlackBerry 9310</MarketName>
+</Device>
+<Device HardwareID="04000F07" Family="9300">
+<Model>9300</Model>
+<MarketName>BlackBerry Curve 9300</MarketName>
+</Device>
+<Device HardwareID="0E000F04" Family="9300">
+<Model>9330</Model>
+<MarketName>BlackBerry Curve 9330</MarketName>
+</Device>
+<Device HardwareID="0C000F04" Family="9350">
+<Model>9350/9370</Model>
+<MarketName>BlackBerry Curve 9350/9370</MarketName>
+</Device>
+<Device HardwareID="0C000F04-00" Family="9350">
+<Model>9350</Model>
+<MarketName>BlackBerry Curve 9350</MarketName>
+</Device>
+<Device HardwareID="0C000F04-01" Family="9350">
+<Model>9350</Model>
+<MarketName>BlackBerry Curve 9350</MarketName>
+</Device>
+<Device HardwareID="0C000F04-04" Family="9350">
+<Model>9350</Model>
+<MarketName>BlackBerry Curve 9350</MarketName>
+</Device>
+<Device HardwareID="0E001507" Family="9350">
+<Model>9360</Model>
+<MarketName>BlackBerry Curve 9360</MarketName>
+</Device>
+<Device HardwareID="0C000F04-03" Family="9370">
+<Model>9370</Model>
+<MarketName>BlackBerry Curve 9370</MarketName>
+</Device>
+<Device HardwareID="06001404" Family="9500">
+<Model>9500</Model>
+<MarketName>BlackBerry Storm 9500</MarketName>
+</Device>
+<Device HardwareID="0D001404" Family="9520">
+<Model>9520</Model>
+<MarketName>BlackBerry Storm 9520</MarketName>
+</Device>
+<Device HardwareID="0E001404" Family="9520">
+<Model>9520</Model>
+<MarketName>BlackBerry Storm 9520</MarketName>
+</Device>
+<Device HardwareID="04001404" Family="9530">
+<Model>9530</Model>
+<MarketName>BlackBerry Storm 9530</MarketName>
+</Device>
+<Device HardwareID="0C001404" Family="9550">
+<Model>9550</Model>
+<MarketName>BlackBerry Storm 9550</MarketName>
+</Device>
+<Device HardwareID="0D000D04" Family="9630">
+<Model>9630</Model>
+<MarketName>BlackBerry Tour 9630</MarketName>
+</Device>
+<Device HardwareID="16000D04" Family="9630">
+<Model>9630</Model>
+<MarketName>BlackBerry Tour 9630</MarketName>
+</Device>
+<Device HardwareID="05001504" Family="9650">
+<Model>9650</Model>
+<MarketName>BlackBerry Bold 9650</MarketName>
+</Device>
+<Device HardwareID="07001504" Family="9650">
+<Model>9650</Model>
+<MarketName>BlackBerry Bold 9650</MarketName>
+</Device>
+<Device HardwareID="05001904" Family="9670">
+<Model>9670</Model>
+<MarketName>BlackBerry Style 9670</MarketName>
+</Device>
+<Device HardwareID="04001507" Family="9700">
+<Model>9700</Model>
+<MarketName>BlackBerry Bold 9700</MarketName>
+</Device>
+<Device HardwareID="15001507" Family="9780">
+<Model>9780</Model>
+<MarketName>BlackBerry Bold 9780</MarketName>
+</Device>
+<Device HardwareID="05001807" Family="9800">
+<Model>9800</Model>
+<MarketName>BlackBerry Torch 9800</MarketName>
+</Device>
+<Device HardwareID="05001A06" Family="RIM Tablet">
+<Model>PlayBook</Model>
+<MarketName>BlackBerry PlayBook</MarketName>
+</Device>
+<Device HardwareID="06001A06" Family="RIM Tablet">
+<Model>PlayBook</Model>
+<MarketName>BlackBerry PlayBook</MarketName>
+</Device>
+<Device HardwareID="07001804" Family="9810">
+<Model>9810</Model>
+<MarketName>BlackBerry Torch 9810</MarketName>
+</Device>
+<Device HardwareID="17001507" Family="9780">
+<Model>9788</Model>
+<MarketName>BlackBerry Bold 9788</MarketName>
+</Device>
+<Device HardwareID="06001807" Family="9800">
+<Model>9800</Model>
+<MarketName>BlackBerry Torch 9800</MarketName>
+</Device>
+<Device HardwareID="07001204" Family="9900">
+<Model>9900</Model>
+<MarketName>BlackBerry Bold 9900</MarketName>
+</Device>
+<Device HardwareID="0C001804" Family="9810">
+<Model>9810</Model>
+<MarketName>BlackBerry Torch 9810</MarketName>
+</Device>
+<Device HardwareID="16001404" Family="9850">
+<Model>9850</Model>
+<MarketName>BlackBerry Torch 9850</MarketName>
+</Device>
+<Device HardwareID="05001204" Family="9930">
+<Model>9930</Model>
+<MarketName>BlackBerry Bold 9930</MarketName>
+</Device>
+<Device HardwareID="1D001404" Family="9860">
+<Model>9860</Model>
+<MarketName>BlackBerry Torch 9860</MarketName>
+</Device>
+<Device HardwareID="04001207" Family="9900">
+<Model>9900</Model>
+<MarketName>BlackBerry Bold 9900</MarketName>
+</Device>
+<Device HardwareID="06001204" Family="9900">
+<Model>9900</Model>
+<MarketName>BlackBerry Bold 9900</MarketName>
+</Device>
+<Device HardwareID="0F001404" Family="9850">
+<Model>9850</Model>
+<MarketName>BlackBerry Torch 9850</MarketName>
+</Device>
+<Device HardwareID="04001204" Family="9900">
+<Model>9930</Model>
+<MarketName>BlackBerry Bold 9930</MarketName>
+</Device>
+<Device HardwareID="1C001404" Family="9860">
+<Model>9860</Model>
+<MarketName>BlackBerry Torch 9860</MarketName>
+</Device>
+<Device HardwareID="0C001204" Family="P9981">
+<Model>P'9981</Model>
+<MarketName>PORSCHE DESIGN P'9981 from BlackBerry</MarketName>
+</Device>
+<Device HardwareID="04002207" Family="9380">
+<Model>9380</Model>
+<MarketName>BlackBerry Curve 9380</MarketName>
+</Device>
+<Device HardwareID="26001507" Family="9790">
+<Model>9790</Model>
+<MarketName>BlackBerry Bold 9790</MarketName>
+</Device>
+<Device HardwareID="04001A0B" Family="RIM Tablet">
+<Model>PlayBook</Model>
+<MarketName>BlackBerry PlayBook</MarketName>
+</Device>
+<Device HardwareID="0C001A06" Family="RIM Tablet">
+<Model>PlayBook</Model>
+<Name>4G LTE BlackBerry PlayBook</Name>
+<MarketName>4G LTE BlackBerry PlayBook</MarketName>
+<MinimumDesktopVersion>7.1</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>2.4</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="0D001A06" Family="RIM Tablet">
+<Model>PlayBook</Model>
+<Name>4G LTE BlackBerry PlayBook</Name>
+<MarketName>4G LTE BlackBerry PlayBook</MarketName>
+<MinimumDesktopVersion>7.1</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>2.4</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="0E001A06" Family="RIM Tablet">
+<Model>PlayBook</Model>
+<Name>3G+ BlackBerry PlayBook</Name>
+<MarketName>3G+ BlackBerry PlayBook</MarketName>
+<MinimumDesktopVersion>7.1</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>2.4</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="02002106" Family="RIM Media">
+<Model>Device</Model>
+<MarketName>Device</MarketName>
+</Device>
+<Device HardwareID="15000F04" Family="unknown3 CDMA">
+<Model>Device</Model>
+<MarketName>Device</MarketName>
+</Device>
+<Device HardwareID="16000F04" Family="9620">
+<Model>9620</Model>
+<MarketName>BlackBerry 9620</MarketName>
+</Device>
+<Device HardwareID="06000F07" Family="9720">
+<Model>9720</Model>
+<MarketName>BlackBerry 9720</MarketName>
+</Device>
+<Device HardwareID="04002307" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+</Device>
+<Device HardwareID="8500080A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+</Device>
+<Device HardwareID="8400240A" Family="Z10">
+<Model>STL100-4</Model>
+<MarketName>BlackBerry Z10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8500240A" Family="Z10">
+<Model>STL100-3</Model>
+<MarketName>BlackBerry Z10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="04002607" Family="Z10">
+<Model>STL100-1</Model>
+<MarketName>BlackBerry Z10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8700240A" Family="Z10">
+<Model>STL100-2</Model>
+<MarketName>BlackBerry Z10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="07002607" Family="Z10">
+<Model>STL100-1</Model>
+<MarketName>BlackBerry Z10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8400270A" Family="Q10">
+<Model>SQN100-1</Model>
+<MarketName>BlackBerry Q10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8500270A" Family="Q10">
+<Model>SQN100-2</Model>
+<MarketName>BlackBerry Q10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8600270A" Family="Q10">
+<Model>SQN100-3</Model>
+<MarketName>BlackBerry Q10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8700270A" Family="Q10">
+<Model>SQN100-5</Model>
+<MarketName>BlackBerry Q10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8C00270A" Family="Q10">
+<Model>SQN100-4</Model>
+<MarketName>BlackBerry Q10</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8D00270A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="06002607" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="84002A0A" Family="Q5">
+<Model>SQR100-1</Model>
+<MarketName>BlackBerry Q5</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="85002A0A" Family="Q5">
+<Model>SQR100-2</Model>
+<MarketName>BlackBerry Q5</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="86002A0A" Family="Q5">
+<Model>SQR100-3</Model>
+<MarketName>BlackBerry Q5</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8E00240A" Family="Z30">
+<Model>STA100-3</Model>
+<MarketName>BlackBerry Z30</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8F00240A" Family="Z30">
+<Model>STA100-4</Model>
+<MarketName>BlackBerry Z30</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8C00240A" Family="Z30">
+<Model>STA100-1</Model>
+<MarketName>BlackBerry Z30</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8D00240A" Family="Z30">
+<Model>STA100-2</Model>
+<MarketName>BlackBerry Z30</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9500240A" Family="Z30">
+<Model>STA100-5</Model>
+<MarketName>BlackBerry Z30</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9F00240A" Family="Z30">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Z30</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9D00240A" Family="Z30">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Z30</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9E00240A" Family="Z30">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Z30</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="B500240A" Family="Z30">
+<Model>STA100-6</Model>
+<MarketName>BlackBerry Z30</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="A500240A" Family="P9982">
+<Model>P'9982</Model>
+<MarketName>PORSCHE DESIGN P'9982 BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="A600240A" Family="P9982">
+<Model>P'9982</Model>
+<MarketName>PORSCHE DESIGN P'9982 BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="A700240A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8D002407" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8C002A07" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="AC00240A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9600240A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9C00240A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9700240A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8C002407" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="87002A07" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="84002C0A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="85002C0A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="86002C0A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="87002C0A" Family="Passport">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Passport</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="04002E07" Family="Z3">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Z3</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8E00270A" Family="P9983">
+<Model>P9983</Model>
+<MarketName>PORSCHE DESIGN P'9983 BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8F00270A" Family="P9983">
+<Model>P9983</Model>
+<MarketName>PORSCHE DESIGN P'9983 BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9400270A" Family="Classic">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Classic</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9500270A" Family="Classic">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Classic</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9600270A" Family="Classic">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Classic</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9700270A" Family="Classic">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Classic</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="9C00270A" Family="Classic">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Classic</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="05002E07" Family="Z3">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Z3</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="06002E0A" Family="Leap">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Leap</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="07002E0A" Family="Leap">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry Leap</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+<Device HardwareID="8F002C0A" Family="unknown0 GSM">
+<Model>BlackBerry</Model>
+<MarketName>BlackBerry</MarketName>
+<MinimumDesktopVersion>10.0</MinimumDesktopVersion>
+<MinimumMacDesktopVersion>10.0</MinimumMacDesktopVersion>
+</Device>
+</Devices>
+<SoftwareCharacteristics>
+<Characteristic Name="WriteThumbnailDb">
+<DefaultValue>false</DefaultValue>
+</Characteristic>
+<Characteristic Name="WriteThumbnailDbTimeOffsetExternal">
+<DefaultValue>true</DefaultValue>
+<Override Type="VersionMatch" On="BlackBerryVersion">
+<Range LowerInclusive="4.6.0.155" UpperExclusive="4.6.0.167"/>
+<Range LowerInclusive="4.6.0.168" UpperExclusive="4.6.1"/>
+</Override>
+</Characteristic>
+<Characteristic Name="WriteThumbnailDbTimeOffsetInternal">
+<DefaultValue>true</DefaultValue>
+<Override Type="VersionMatch" On="BlackBerryVersion">
+<Range LowerInclusive="4.6.0" UpperExclusive="4.6.1"/>
+</Override>
+</Characteristic>
+</SoftwareCharacteristics>
+</DeviceCharacteristics>
